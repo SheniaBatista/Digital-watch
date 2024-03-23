@@ -1,2 +1,2 @@
 # Relógio Digital 
- Desenvolvimento de um rélogio digital usando HTML, CSS e JavaScript.
+ Desenvolvimento de um relógio digital usando HTML, CSS e JavaScript.
